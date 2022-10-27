@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.MuiAccordion-root {
+    margin-bottom: 25px;
+}
+
+.topic_title {
+    font-size: 22px !important;
+    font-weight: 600 !important;
+    color: #6b9ce1;
+}
+
+.sub_table_head {
+    background-color: lightgray;
+}
+
+.yes_status {
+    background-color: #579bfc;
+    color: white !important;
+    font-weight: 600 !important;
+}
+
+.no_status {
+    font-weight: 600 !important;
+    background-color: gray;
+}
+
+.active_status {
+    background-color: #05c575;
+    color: white !important;
+    font-weight: 600 !important;
+}
+
+.mw50 {
+    width: 50px !important;
+    padding: 6px 0px !important;
+}
+
+.css-dsuxgy-MuiTableCell-root {
+    padding: 0 10px !important;
+}
+
+.css-pwcg7p-MuiCollapse-root {
+    padding-bottom: 30px;
+}
+
+.flags {
+    overflow-y: scroll;
+}
+
+.flags img {
+    width: 150px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.flag_box {
+    text-align: center;
+    margin: 10px;
+}
+
+.country_select {
+    min-width: 200px;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    color: black !important;
+    background-color: #007bff57 !important;
+}
+
+.min_width_200 {
+    min-width: 200px;
+    max-width: 210px;
+}
+
+.store_alert {
+    padding: 0;
+    margin: 0;
+}
+
+.store_alert p {
+    margin: 0;
+}
+
+.img_ref img {
+    max-width: 100%;
+}
+
+.country_content {
+    width: 100%;
+}
+
+.flag_box {
+    display: inline-block;
+}
+
+.cp {
+    cursor: pointer;
+}
+
+.h_sc::-webkit-scrollbar {
+    display: none;
+}
+
+.sub_menu {
+    background-color: #a8d2ff;
+}
+
+.ac_sub_menu {
+    background-color: #1976d2;
+    color: white;
+}
